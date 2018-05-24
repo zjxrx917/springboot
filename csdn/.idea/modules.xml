@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/csdn.iml" filepath="$PROJECT_DIR$/csdn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wsimport/wsimport.iml" filepath="$PROJECT_DIR$/wsimport/wsimport.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zhoushangBase/zhoushangBase.iml" filepath="$PROJECT_DIR$/zhoushangBase/zhoushangBase.iml" />
+    </modules>
+  </component>
+</project>
